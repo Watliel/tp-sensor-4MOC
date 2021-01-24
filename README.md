@@ -1,5 +1,5 @@
 # tp-sensor-4MOC
-TP réalisé par Mohamed et Arnaud
+TP réalisé par Mohamed Dennoun et Arnaud SALOMON
 
 ## Etat de fonctionnement standard
 ![button_not_pressed](https://user-images.githubusercontent.com/47086851/105644000-90f34e80-5e93-11eb-9e08-b9d2c6d03b9b.jpg)
